@@ -268,6 +268,27 @@
     }
   },
   {
+    "name": "nanoleaf-adapter",
+    "display_name": "Nanoleaf",
+    "description": "Controll your Nanoleaf aurora",
+    "author": "Roman Odermatt",
+    "homepage": "https://github.com/roderm/nanoleaf-adapter",
+    "version": "0.0.3",
+    "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.3/nanoleaf-adapter-0.0.3.tgz",
+    "checksum": "ab71b9e07e539f3905578937c84c01097684f02566f6c0f8b5a38670929905f3",
+    "packages": {
+      "any": {
+        "version": "0.0.3",
+        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.3/nanoleaf-adapter-0.0.3.tgz",
+        "checksum": "ab71b9e07e539f3905578937c84c01097684f02566f6c0f8b5a38670929905f3"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "netatmo-weather-adapter",
     "display_name": "Netatmo Weather Station",
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",

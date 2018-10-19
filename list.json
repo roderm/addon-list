@@ -91,7 +91,6 @@
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-x64-v8.tgz",
         "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef"
       }
-
     },
     "api": {
       "min": 2,
@@ -355,6 +354,27 @@
         "version": "0.5.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.5.0.tgz",
         "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "name": "telnet-adapter",
+    "display_name": "Telnet",
+    "description": "Telnet adapter",
+    "author": "Roman Odermatt",
+    "homepage": "https://github.com/roderm/telnet-adapter",
+    "version": "0.0.3",
+    "url": "https://github.com/roderm/telnet-adapter/releases/download/0.0.3/telnet-adapter-0.0.3.tgz",
+    "checksum": "16303a7506d3ed77181ead6429983dc38a12cc0eb509027b02eb5240b505b0d5",
+    "packages": {
+      "any": {
+        "version": "0.0.3",
+        "url": "https://github.com/roderm/telnet-adapter/releases/download/0.0.3/telnet-adapter-0.0.3.tgz",
+        "checksum": "16303a7506d3ed77181ead6429983dc38a12cc0eb509027b02eb5240b505b0d5"
       }
     },
     "api": {

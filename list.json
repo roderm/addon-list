@@ -365,18 +365,15 @@
     "description": "Telnet adapter",
     "author": "Roman Odermatt",
     "homepage": "https://github.com/roderm/telnet-adapter",
-    "version": "0.0.3-1",
-    "url": "https://github.com/roderm/telnet-adapter/releases/download/v0.0.3-1/telnet-adapter-0.0.3-1.tgz",
-    "checksum": "ae821dab5ff8c3dd9aafe9bd8750ab7c31da612ceda8e1f4bb7a4a5f1bd2cba4",
     "packages": {
       "any": {
-        "version": "0.0.3-1",
-        "url": "https://github.com/roderm/telnet-adapter/releases/download/v0.0.3-1/telnet-adapter-0.0.3-1.tgz",
-        "checksum": "ae821dab5ff8c3dd9aafe9bd8750ab7c31da612ceda8e1f4bb7a4a5f1bd2cba4"
+        "version": "0.0.4",
+        "url": "https://github.com/roderm/telnet-adapter/releases/download/v0.0.4/telnet-adapter-0.0.4.tgz",
+        "checksum": "ceb80bc6317e94d7e1759b277e8d20e5b452ec976be0cf496cbc23ec2ce4b6bc"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   },
